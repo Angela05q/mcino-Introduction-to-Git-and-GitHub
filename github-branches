@@ -1,0 +1,6 @@
+  bug-fix-revert                c51f3b1 [origin/bug-fix-revert] Revert "Fix typo in README"
+  bug-fix-typo                  5293999 Fix typo in README
+* main                          500d4ad [origin/main] Add merge evidence
+  remotes/origin/HEAD           -> origin/main
+  remotes/origin/bug-fix-revert c51f3b1 Revert "Fix typo in README"
+  remotes/origin/main           500d4ad Add merge evidence
